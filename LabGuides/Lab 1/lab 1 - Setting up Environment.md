@@ -15,8 +15,8 @@
 
 2.  Click on **Try for Free.**
 
-<img src="./media/image1.png" style="width:6.5in;height:3.81667in"
-alt="A screenshot of a computer Description automatically generated" />
+
+![](./media/image1.png)
 
 3.  Enter your credentials.
 
