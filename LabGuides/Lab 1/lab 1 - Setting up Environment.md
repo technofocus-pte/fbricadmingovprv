@@ -26,7 +26,7 @@ alt="A screenshot of a login screen Description automatically generated" />
 4.  Once you enter your credentials and selected Next. You will be
     navigated to Microsoft Fabric Home page.
 
-<img src="./media/image3.png" style="width:6.5in;height:3.25in" />
+![](./media/image2.png)
 
 5.  You must make sure that the Trial licence is enabled by selecting
     the account on top-right corner of the Fabric home page. Select
